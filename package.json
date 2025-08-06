@@ -1,0 +1,15 @@
+{
+  "name": "01chaibackend",
+  "version": "1.0.0",
+  "description": "chai code me lokesh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lokesh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
